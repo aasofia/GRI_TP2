@@ -1,0 +1,13 @@
+#graphe 2-sweep 4-sweep sum-sweep exact
+g.txt	4	4	4	4
+as20000102.txt.gz	6	6	6
+as-caida20071105.txt.gz	17	17	17
+as-skitter.txt.gz	14	22	22
+roadNet-TX.txt.gz	1064	1064	1064
+roadNet-CA.txt.gz	855	856	860
+ca-AstroPh.txt.gz	14	14	14
+com-dblp.ungraph.txt.gz	23	23	23
+email-Enron.txt.gz	9	9	10
+soc-pokec-relationships.txt.gz	13	14	13
+web-BerkStan.txt.gz	208	208	208
+bigdeg.txt	4	4	4
